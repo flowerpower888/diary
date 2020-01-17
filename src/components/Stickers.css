@@ -1,0 +1,13 @@
+.stickers-container {
+  max-width: 13em;
+  position: absolute;
+  border: 6px solid #80a4fc;
+  border-radius: 20px;
+  background: url('https://i.pinimg.com/originals/8d/1d/25/8d1d25f166e8e71b1c2cec4651f647a9.gif')
+}
+.sticker {
+  height: 70px;
+  width: auto;
+  cursor: pointer;
+  user-select: none;
+}
